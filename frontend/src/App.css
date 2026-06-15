@@ -1,1 +1,4 @@
-@import "tailwindcss";
+/* App-level styles (kept separate from Tailwind base directives).
+	Tailwind directives moved to src/index.css so they load on app startup. */
+
+/* Add any component-specific CSS here */
